@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src", "br.com.desafio.bootcamp"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
